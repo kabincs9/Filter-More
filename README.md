@@ -25,7 +25,7 @@ This program reads a BMP image file, applies one of four beautiful filters, and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/filter.git
+git clone https://github.com/kabincs9/filter.git
 cd filter
 
 # Compile
